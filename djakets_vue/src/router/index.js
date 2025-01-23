@@ -4,7 +4,7 @@ import HomeView from '../views/HomeView.vue'
 import Product from '../views/ProductView.vue'
 import Category from '../views/CategoryView.vue'
 import Search from '@/views/Search.vue'
-import Cart from '@/views/CartView.vue'
+import Cart from '@/views/Cart.vue'
 
 const routes = [
   {
